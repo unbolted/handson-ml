@@ -66,7 +66,7 @@ scikit-image==0.14.2
 ##### Extra packages (optional)
 
 # Nice utility to diff Jupyter Notebooks.
-#nbdime==1.0.5
+nbdime==1.0.5
 
 # May be useful with Pandas for complex "where" clauses (e.g., Pandas
 # tutorial).
@@ -80,3 +80,5 @@ urlextract==0.9
 # Optional: tqdm displays nice progress bars, ipywidgets for tqdm's notebook support
 tqdm==4.31.1
 ipywidgets==7.4.2
+
+jupyter_contrib_nbextensions
